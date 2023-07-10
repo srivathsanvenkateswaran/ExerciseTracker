@@ -22,4 +22,5 @@
 ![image](https://github.com/srivathsanvenkateswaran/ExerciseTracker/assets/74530357/b0e0bc85-c05f-46e5-8024-4f499c3cf337)
 
 ## Update reflected in list of exercises
-![image](https://github.com/srivathsanvenkateswaran/ExerciseTracker/assets/74530357/fa2a96a4-3be3-441c-8939-ca19cf8fac13)
+![image](https://github.com/srivathsanvenkateswaran/ExerciseTracker/assets/74530357/dd78980f-a5a2-4e46-8bf0-3461e606c8c3)
+
